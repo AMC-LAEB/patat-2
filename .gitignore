@@ -1,3 +1,11 @@
+# specific folders
+*.ipynb
+*.sh
+geogia_testrun/
+results/
+literature/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
