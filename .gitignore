@@ -8,6 +8,7 @@ data/.DS_Store
 data/worldpop/.DS_Store
 preload/.DS_Store
 preload/georgia_20230523/.DS_Store
+neopatat/__pycache__
 
 
 # Byte-compiled / optimized / DLL files
