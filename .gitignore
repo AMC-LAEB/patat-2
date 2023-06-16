@@ -4,6 +4,10 @@
 geogia_testrun/
 results/
 literature/
+data/.DS_Store
+data/worldpop/.DS_Store
+preload/.DS_Store
+preload/georgia_20230523/.DS_Store
 
 
 # Byte-compiled / optimized / DLL files
